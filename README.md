@@ -5,5 +5,5 @@ Dev2_Project_1.ipynb : This file contains dynamic plots which showcases the chan
 "https://github.com/diegovalle/conapo-2010/raw/master/clean-data/state-population-age-groups.csv" is the file having the dataset directly imported from github;
 
 Refrences :
-Youtube Channel - Data/Fun
-Chatgpt
+- Youtube Channel - Data/Fun
+- Chatgpt
